@@ -3,7 +3,7 @@ Your character traits are based on your personality, morals, ethics and beliefs.
 What are character traits?
 Character traits are aspects of your behavior that may be valued by the community or society. They are often used in the context of specific situations, such as encountering an opportunity or a challenge. For example, think of your favorite hero in a book or movie you enjoy. How does this person act under pressure? How do they behave when others are in trouble? The words you would use to describe these behaviors, such as brave, caring and honest, are character traits.
 
-![Branching](h.html)
+![Branching](h.jfif)
 
 Related: How to Ask for a Character Reference
 
